@@ -1,0 +1,64 @@
+2020-12-29T14:29:45+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\inc\woocommerce.php on line 228
+
+2020-12-29T14:30:15+00:00 CRITICAL Uncaught Error: Call to undefined function get_category_header_background() in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\header.php:29
+Stack trace:
+#0 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Usuari...', true, Array)
+#2 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\index.php(15): get_header()
+#4 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Usuari...')
+#5 C:\Users\Usuario\Local Sites\alterego\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Usuari...')
+#6 C:\Users\Usuario\Local Sites\alterego\app\public\index.php(17): require('C:\\Users\\Usuari...')
+#7 {main}
+  thrown in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\header.php on line 29
+
+2020-12-29T14:30:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_category_header_background() in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\header.php:29
+Stack trace:
+#0 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Usuari...', true, Array)
+#2 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\index.php(15): get_header()
+#4 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Usuari...')
+#5 C:\Users\Usuario\Local Sites\alterego\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Usuari...')
+#6 C:\Users\Usuario\Local Sites\alterego\app\public\index.php(17): require('C:\\Users\\Usuari...')
+#7 {main}
+  thrown in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\header.php on line 29
+
+2020-12-29T14:48:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_category_header_background() in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\header.php:29
+Stack trace:
+#0 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Usuari...', true, Array)
+#2 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\index.php(15): get_header()
+#4 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Usuari...')
+#5 C:\Users\Usuario\Local Sites\alterego\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Usuari...')
+#6 C:\Users\Usuario\Local Sites\alterego\app\public\index.php(17): require('C:\\Users\\Usuari...')
+#7 {main}
+  thrown in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\header.php on line 29
+
+2020-12-29T14:48:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_category_header_background() in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\header.php:29
+Stack trace:
+#0 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Usuari...', true, Array)
+#2 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\index.php(15): get_header()
+#4 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Usuari...')
+#5 C:\Users\Usuario\Local Sites\alterego\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Usuari...')
+#6 C:\Users\Usuario\Local Sites\alterego\app\public\index.php(17): require('C:\\Users\\Usuari...')
+#7 {main}
+  thrown in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\header.php on line 29
+
+2020-12-29T14:49:54+00:00 CRITICAL Uncaught Error: Call to undefined function get_category_header_background() in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\header.php:29
+Stack trace:
+#0 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Usuari...', true, Array)
+#2 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\index.php(15): get_header()
+#4 C:\Users\Usuario\Local Sites\alterego\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Usuari...')
+#5 C:\Users\Usuario\Local Sites\alterego\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Usuari...')
+#6 C:\Users\Usuario\Local Sites\alterego\app\public\index.php(17): require('C:\\Users\\Usuari...')
+#7 {main}
+  thrown in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\header.php on line 29
+
+2020-12-29T17:01:35+00:00 CRITICAL syntax error, unexpected '=' in C:\Users\Usuario\Local Sites\alterego\app\public\wp-content\themes\alterego\woocommerce\content-product.php on line 27
+
